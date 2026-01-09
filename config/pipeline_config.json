@@ -1,0 +1,4 @@
+{
+  "raw_data_path": "data/raw/sales.csv",
+  "processed_data_path": "data/processed/sales_processed.csv"
+}
